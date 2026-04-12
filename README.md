@@ -20,7 +20,7 @@ An AI/ML Engineer passionate about building smarter systems that learn and evolv
 
 - 🌱 I’m currently learning *AI/ML*
 
-- 📫 How to reach me *23cs3014@rgipt.ac.in*
+- 📫 How to reach me *aryankaushik290404@gmail.com*
 
 <!--- 📄 Know about my experiences [Portfolio](https://souma46deep.vercel.app/)
 ## 🌐 Socials:
