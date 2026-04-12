@@ -34,10 +34,10 @@ An AI/ML Engineer passionate about building smarter systems that learn and evolv
 ###
 
 
-<p align="center">  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Soumadeep46&theme=dark" />
+<p align="center">  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Aryan&theme=dark" />
 </p>
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Soumadeep46&theme=dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aryankaushik04&theme=dark" />
 </p>
 
 
@@ -45,7 +45,7 @@ An AI/ML Engineer passionate about building smarter systems that learn and evolv
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/soumadeep46/soumadeep46/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/aryankaushik04/aryankaushik04/output/snake.svg" alt="Snake animation" />
 
 ###
 
