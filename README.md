@@ -2,7 +2,7 @@
 
 <!-- Header Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=ADD8E6&height=250&section=header&text=Hello%20I'm%20Aryan%20Kaushik&fontSize=40&fontAlignY=35&desc=Computer%20and%20Science%20&descAlignY=60" />  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ADD8E6&height=250&section=header&text=Hello%20I'm%20Aryan%20Kaushik&fontSize=40&fontAlignY=35&desc=Computer%20Science%20&descAlignY=60" />  
 </p>
 
 <!-- Typing effect -->
